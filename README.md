@@ -1,8 +1,4 @@
-Cocktail Exercise
-Introduction
-The Cocktail DB is a public database of cocktails and drinks from around the world https://www.thecocktaildb.com/. The Cocktail DB has a public API to retrieve data about ingredients and drinks. See the documentation here https://www.thecocktaildb.com/api.php.
 
-We have proposed some requirements for the cocktail API (this list is not exhaustive!).
 
 Your task is to:
 Write a minimum set of test cases to test the requirements below
