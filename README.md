@@ -1,5 +1,3 @@
-
-
 Your task is to:
 Write a minimum set of test cases to test the requirements below
 Write two additional test cases that are not covered by the requirements below.
